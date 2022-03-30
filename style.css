@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+  height: screen;
+}
+
+.wrapper {
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
